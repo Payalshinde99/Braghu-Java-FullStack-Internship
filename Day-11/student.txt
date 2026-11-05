@@ -1,3 +1,0 @@
-Student Name: Payal Shinde
-Course: Java Full Stack Development
-Internship Day: 11
